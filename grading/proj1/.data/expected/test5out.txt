@@ -1,0 +1,9 @@
+usage: letter_freq.py [-h] [-o] [-p] filename
+
+positional arguments:
+  filename      a comma separated value unigram file
+
+optional arguments:
+  -h, --help    show this help message and exit
+  -o, --output  display letter frequencies to standard output
+  -p, --plot    plot letter frequencies using matplotlib

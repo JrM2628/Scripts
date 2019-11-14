@@ -1,0 +1,6 @@
+query is ranked #34
+#1: question -> 110621575
+#2: quite -> 86699197
+#3: questions -> 59064254
+#4: quality -> 54593149
+#5: quickly -> 32892886

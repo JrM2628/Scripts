@@ -1,0 +1,11 @@
+usage: word_length.py [-h] [-o] [-p] start end filename
+
+positional arguments:
+  start         the starting year range
+  end           the ending year range
+  filename      a comma separated value unigram file
+
+optional arguments:
+  -h, --help    show this help message and exit
+  -o, --output  display the average word lengths over years
+  -p, --plot    plot the average word lengths over years

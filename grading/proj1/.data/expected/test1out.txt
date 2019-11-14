@@ -1,0 +1,8 @@
+usage: word_count.py [-h] word filename
+
+positional arguments:
+  word        a word to display the total occurrences of
+  filename    a comma separated value unigram file
+
+optional arguments:
+  -h, --help  show this help message and exit

@@ -1,0 +1,11 @@
+help
+courses
+users
+professor hpb
+student cc2
+enroll cc2 5
+student cc2
+unenroll cc2 4
+student cc2
+course 4
+quit

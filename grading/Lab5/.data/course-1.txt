@@ -1,0 +1,7 @@
+1,Computer_Science_1,100
+6,Computer_Graphics_1,500
+2,Computer_Science_2,100
+3,Mechanics_of_Programming,200
+5,Professional_Communications,400
+4,Principles_of_Data_Management,300
+10,Aspect_Oriented_Programming,500

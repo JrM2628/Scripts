@@ -1,0 +1,6 @@
+-More documentation everywhere!!!!
+-Change Powershell aliases to their actual commandlet
+-Labs 8 & 9
+-Labs 1-3? Not sure how automated Turtle can get. Might be easier to just use PyCharm. Lab 3 will be good to automate, though
+-Upload expected output
+-Include diff tests

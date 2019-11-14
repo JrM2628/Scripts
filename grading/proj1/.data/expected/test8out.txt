@@ -1,0 +1,13 @@
+usage: word_freq.py [-h] [-o OUTPUT] [-p] word filename
+
+positional arguments:
+  word                  a word to display the overall ranking of
+  filename              a comma separated value unigram file
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -o OUTPUT, --output OUTPUT
+                        display the top OUTPUT (#) ranked words by number of
+                        occurrences
+  -p, --plot            plot the word rankings from top to bottom based on
+                        occurrences

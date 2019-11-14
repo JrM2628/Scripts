@@ -1,0 +1,287 @@
+Battle #1
+==========
+DRAGON:
+Trogdor, BERSERKER, 30/30
+Spyro, HEALER, 35/35
+Smaug, TANK, 40/40
+
+LION:
+Simba, BERSERKER, 30/30
+Elsa, HEALER, 35/35
+Aslan, TANK, 40/40
+
+*** Trogdor vs Simba!
+
+Simba takes 20 damage
+Trogdor takes 20 damage
+
+Battle #2
+==========
+DRAGON:
+Spyro, HEALER, 35/35
+Smaug, TANK, 40/40
+Trogdor, BERSERKER, 10/30
+
+LION:
+Elsa, HEALER, 35/35
+Aslan, TANK, 40/40
+Simba, BERSERKER, 10/30
+
+*** Elsa vs Spyro!
+
+Elsa heals 10 points
+Aslan heals 10 points
+Simba heals 10 points
+Spyro takes 10 damage
+Spyro heals 10 points
+Smaug heals 10 points
+Trogdor heals 10 points
+Elsa takes 10 damage
+
+Battle #3
+==========
+DRAGON:
+Smaug, TANK, 40/40
+Trogdor, BERSERKER, 20/30
+Spyro, HEALER, 35/35
+
+LION:
+Aslan, TANK, 40/40
+Simba, BERSERKER, 20/30
+Elsa, HEALER, 25/35
+
+*** Smaug vs Aslan!
+
+Aslan takes 13 damage
+Smaug takes 13 damage
+
+Battle #4
+==========
+DRAGON:
+Trogdor, BERSERKER, 20/30
+Spyro, HEALER, 35/35
+Smaug, TANK, 27/40
+
+LION:
+Simba, BERSERKER, 20/30
+Elsa, HEALER, 25/35
+Aslan, TANK, 27/40
+
+*** Simba vs Trogdor!
+
+Trogdor takes 20 damage
+Trogdor has fallen!
+
+Battle #5
+==========
+DRAGON:
+Spyro, HEALER, 35/35
+Smaug, TANK, 27/40
+
+LION:
+Elsa, HEALER, 25/35
+Aslan, TANK, 27/40
+Simba, BERSERKER, 20/30
+
+*** Spyro vs Elsa!
+
+Spyro heals 10 points
+Smaug heals 10 points
+Elsa takes 10 damage
+Elsa heals 10 points
+Aslan heals 10 points
+Simba heals 10 points
+Spyro takes 10 damage
+
+Battle #6
+==========
+DRAGON:
+Smaug, TANK, 37/40
+Spyro, HEALER, 25/35
+
+LION:
+Aslan, TANK, 37/40
+Simba, BERSERKER, 30/30
+Elsa, HEALER, 25/35
+
+*** Aslan vs Smaug!
+
+Smaug takes 13 damage
+Aslan takes 13 damage
+
+Battle #7
+==========
+DRAGON:
+Spyro, HEALER, 25/35
+Smaug, TANK, 24/40
+
+LION:
+Simba, BERSERKER, 30/30
+Elsa, HEALER, 25/35
+Aslan, TANK, 24/40
+
+*** Spyro vs Simba!
+
+Spyro heals 10 points
+Smaug heals 10 points
+Simba takes 10 damage
+Spyro takes 20 damage
+
+Battle #8
+==========
+DRAGON:
+Smaug, TANK, 34/40
+Spyro, HEALER, 15/35
+
+LION:
+Elsa, HEALER, 25/35
+Aslan, TANK, 24/40
+Simba, BERSERKER, 20/30
+
+*** Elsa vs Smaug!
+
+Elsa heals 10 points
+Aslan heals 10 points
+Simba heals 10 points
+Smaug takes 9 damage
+Elsa takes 15 damage
+
+Battle #9
+==========
+DRAGON:
+Spyro, HEALER, 15/35
+Smaug, TANK, 25/40
+
+LION:
+Aslan, TANK, 34/40
+Simba, BERSERKER, 30/30
+Elsa, HEALER, 20/35
+
+*** Spyro vs Aslan!
+
+Spyro heals 10 points
+Smaug heals 10 points
+Aslan takes 9 damage
+Spyro takes 15 damage
+
+Battle #10
+==========
+DRAGON:
+Smaug, TANK, 35/40
+Spyro, HEALER, 10/35
+
+LION:
+Simba, BERSERKER, 30/30
+Elsa, HEALER, 20/35
+Aslan, TANK, 25/40
+
+*** Simba vs Smaug!
+
+Smaug takes 18 damage
+Simba takes 15 damage
+
+Battle #11
+==========
+DRAGON:
+Spyro, HEALER, 10/35
+Smaug, TANK, 17/40
+
+LION:
+Elsa, HEALER, 20/35
+Aslan, TANK, 25/40
+Simba, BERSERKER, 15/30
+
+*** Spyro vs Elsa!
+
+Spyro heals 10 points
+Smaug heals 10 points
+Elsa takes 10 damage
+Elsa heals 10 points
+Aslan heals 10 points
+Simba heals 10 points
+Spyro takes 10 damage
+
+Battle #12
+==========
+DRAGON:
+Smaug, TANK, 27/40
+Spyro, HEALER, 10/35
+
+LION:
+Aslan, TANK, 35/40
+Simba, BERSERKER, 25/30
+Elsa, HEALER, 20/35
+
+*** Aslan vs Smaug!
+
+Smaug takes 13 damage
+Aslan takes 13 damage
+
+Battle #13
+==========
+DRAGON:
+Spyro, HEALER, 10/35
+Smaug, TANK, 14/40
+
+LION:
+Simba, BERSERKER, 25/30
+Elsa, HEALER, 20/35
+Aslan, TANK, 22/40
+
+*** Spyro vs Simba!
+
+Spyro heals 10 points
+Smaug heals 10 points
+Simba takes 10 damage
+Spyro takes 20 damage
+Spyro has fallen!
+
+Battle #14
+==========
+DRAGON:
+Smaug, TANK, 24/40
+
+LION:
+Elsa, HEALER, 20/35
+Aslan, TANK, 22/40
+Simba, BERSERKER, 15/30
+
+*** Elsa vs Smaug!
+
+Elsa heals 10 points
+Aslan heals 10 points
+Simba heals 10 points
+Smaug takes 9 damage
+Elsa takes 15 damage
+
+Battle #15
+==========
+DRAGON:
+Smaug, TANK, 15/40
+
+LION:
+Aslan, TANK, 32/40
+Simba, BERSERKER, 25/30
+Elsa, HEALER, 15/35
+
+*** Smaug vs Aslan!
+
+Aslan takes 13 damage
+Smaug takes 13 damage
+
+Battle #16
+==========
+DRAGON:
+Smaug, TANK, 2/40
+
+LION:
+Simba, BERSERKER, 25/30
+Elsa, HEALER, 15/35
+Aslan, TANK, 19/40
+
+*** Simba vs Smaug!
+
+Smaug takes 18 damage
+Smaug has fallen!
+
+Team Lion wins!

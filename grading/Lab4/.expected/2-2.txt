@@ -1,0 +1,290 @@
+Battle #1
+==========
+DRAGON:
+Smaug, TANK, 40/40
+Trogdor, BERSERKER, 30/30
+Spyro, HEALER, 35/35
+
+LION:
+Aslan, TANK, 40/40
+Simba, BERSERKER, 30/30
+Elsa, HEALER, 35/35
+
+*** Smaug vs Aslan!
+
+Aslan takes 13 damage
+Smaug takes 13 damage
+
+Battle #2
+==========
+DRAGON:
+Trogdor, BERSERKER, 30/30
+Spyro, HEALER, 35/35
+Smaug, TANK, 27/40
+
+LION:
+Simba, BERSERKER, 30/30
+Elsa, HEALER, 35/35
+Aslan, TANK, 27/40
+
+*** Simba vs Trogdor!
+
+Trogdor takes 20 damage
+Simba takes 20 damage
+
+Battle #3
+==========
+DRAGON:
+Spyro, HEALER, 35/35
+Smaug, TANK, 27/40
+Trogdor, BERSERKER, 10/30
+
+LION:
+Elsa, HEALER, 35/35
+Aslan, TANK, 27/40
+Simba, BERSERKER, 10/30
+
+*** Spyro vs Elsa!
+
+Spyro heals 10 points
+Smaug heals 10 points
+Trogdor heals 10 points
+Elsa takes 10 damage
+Elsa heals 10 points
+Aslan heals 10 points
+Simba heals 10 points
+Spyro takes 10 damage
+
+Battle #4
+==========
+DRAGON:
+Smaug, TANK, 37/40
+Trogdor, BERSERKER, 20/30
+Spyro, HEALER, 25/35
+
+LION:
+Aslan, TANK, 37/40
+Simba, BERSERKER, 20/30
+Elsa, HEALER, 35/35
+
+*** Aslan vs Smaug!
+
+Smaug takes 13 damage
+Aslan takes 13 damage
+
+Battle #5
+==========
+DRAGON:
+Trogdor, BERSERKER, 20/30
+Spyro, HEALER, 25/35
+Smaug, TANK, 24/40
+
+LION:
+Simba, BERSERKER, 20/30
+Elsa, HEALER, 35/35
+Aslan, TANK, 24/40
+
+*** Trogdor vs Simba!
+
+Simba takes 20 damage
+Simba has fallen!
+
+Battle #6
+==========
+DRAGON:
+Spyro, HEALER, 25/35
+Smaug, TANK, 24/40
+Trogdor, BERSERKER, 20/30
+
+LION:
+Elsa, HEALER, 35/35
+Aslan, TANK, 24/40
+
+*** Elsa vs Spyro!
+
+Elsa heals 10 points
+Aslan heals 10 points
+Spyro takes 10 damage
+Spyro heals 10 points
+Smaug heals 10 points
+Trogdor heals 10 points
+Elsa takes 10 damage
+
+Battle #7
+==========
+DRAGON:
+Smaug, TANK, 34/40
+Trogdor, BERSERKER, 30/30
+Spyro, HEALER, 25/35
+
+LION:
+Aslan, TANK, 34/40
+Elsa, HEALER, 25/35
+
+*** Smaug vs Aslan!
+
+Aslan takes 13 damage
+Smaug takes 13 damage
+
+Battle #8
+==========
+DRAGON:
+Trogdor, BERSERKER, 30/30
+Spyro, HEALER, 25/35
+Smaug, TANK, 21/40
+
+LION:
+Elsa, HEALER, 25/35
+Aslan, TANK, 21/40
+
+*** Elsa vs Trogdor!
+
+Elsa heals 10 points
+Aslan heals 10 points
+Trogdor takes 10 damage
+Elsa takes 20 damage
+
+Battle #9
+==========
+DRAGON:
+Spyro, HEALER, 25/35
+Smaug, TANK, 21/40
+Trogdor, BERSERKER, 20/30
+
+LION:
+Aslan, TANK, 31/40
+Elsa, HEALER, 15/35
+
+*** Spyro vs Aslan!
+
+Spyro heals 10 points
+Smaug heals 10 points
+Trogdor heals 10 points
+Aslan takes 9 damage
+Spyro takes 15 damage
+
+Battle #10
+==========
+DRAGON:
+Smaug, TANK, 31/40
+Trogdor, BERSERKER, 30/30
+Spyro, HEALER, 20/35
+
+LION:
+Elsa, HEALER, 15/35
+Aslan, TANK, 22/40
+
+*** Elsa vs Smaug!
+
+Elsa heals 10 points
+Aslan heals 10 points
+Smaug takes 9 damage
+Elsa takes 15 damage
+
+Battle #11
+==========
+DRAGON:
+Trogdor, BERSERKER, 30/30
+Spyro, HEALER, 20/35
+Smaug, TANK, 22/40
+
+LION:
+Aslan, TANK, 32/40
+Elsa, HEALER, 10/35
+
+*** Trogdor vs Aslan!
+
+Aslan takes 18 damage
+Trogdor takes 15 damage
+
+Battle #12
+==========
+DRAGON:
+Spyro, HEALER, 20/35
+Smaug, TANK, 22/40
+Trogdor, BERSERKER, 15/30
+
+LION:
+Elsa, HEALER, 10/35
+Aslan, TANK, 14/40
+
+*** Elsa vs Spyro!
+
+Elsa heals 10 points
+Aslan heals 10 points
+Spyro takes 10 damage
+Spyro heals 10 points
+Smaug heals 10 points
+Trogdor heals 10 points
+Elsa takes 10 damage
+
+Battle #13
+==========
+DRAGON:
+Smaug, TANK, 32/40
+Trogdor, BERSERKER, 25/30
+Spyro, HEALER, 20/35
+
+LION:
+Aslan, TANK, 24/40
+Elsa, HEALER, 10/35
+
+*** Smaug vs Aslan!
+
+Aslan takes 13 damage
+Smaug takes 13 damage
+
+Battle #14
+==========
+DRAGON:
+Trogdor, BERSERKER, 25/30
+Spyro, HEALER, 20/35
+Smaug, TANK, 19/40
+
+LION:
+Elsa, HEALER, 10/35
+Aslan, TANK, 11/40
+
+*** Elsa vs Trogdor!
+
+Elsa heals 10 points
+Aslan heals 10 points
+Trogdor takes 10 damage
+Elsa takes 20 damage
+Elsa has fallen!
+
+Battle #15
+==========
+DRAGON:
+Spyro, HEALER, 20/35
+Smaug, TANK, 19/40
+Trogdor, BERSERKER, 15/30
+
+LION:
+Aslan, TANK, 21/40
+
+*** Spyro vs Aslan!
+
+Spyro heals 10 points
+Smaug heals 10 points
+Trogdor heals 10 points
+Aslan takes 9 damage
+Spyro takes 15 damage
+
+Battle #16
+==========
+DRAGON:
+Smaug, TANK, 29/40
+Trogdor, BERSERKER, 25/30
+Spyro, HEALER, 15/35
+
+LION:
+Aslan, TANK, 12/40
+
+*** Aslan vs Smaug!
+
+Smaug takes 13 damage
+Aslan takes 13 damage
+Aslan has fallen!
+
+Team Dragon wins!
