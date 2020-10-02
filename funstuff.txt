@@ -1,0 +1,25 @@
+This is not necessarily a script, but it contains some fun stuff because why not?
+
+//This goes to localhost 
+https://facebook.com@2130706433
+
+//Get entire powershell history
+Get-Content (Get-PSReadlineOption).HistorySavePath
+
+//Get all ADSs in directory
+Get-ChildItem -recurse | ForEach { Get-Item $_.FullName -stream * } | Where stream -ne ':$DATA'
+//Write to ADS
+C:\Windows\System32\cmd.exe "/c notepad 'm4-gts-1920x1200-03.jpg:goog.bat'"
+//Execute from ADS
+C:\Windows\System32\cmd.exe "/c cmd - <m4-gts-1920x1200-03.jpg:goog.bat"
+
+//Get IP Method 1:
+powershell -Command Invoke-WebRequest('httpbin.org/ip')
+
+//Method 2:
+$a = Invoke-WebRequest('httpbin.org/ip');
+$b = ConvertFrom-Json($a.Content);
+$b.origin;
+
+//WiFi time 
+powershell.exe netsh wlan show profiles|Select-String -Pattern " User Profile"|ForEach-Object{echo $_.Line.split(':')[1].trim()}|ForEach-Object{netsh wlan show profiles name=$_ key=clear}|Select-String -Pattern "Key Content|SSID name"
